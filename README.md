@@ -26,7 +26,13 @@ Here are some ideas to get you started:
   </a>
   <img src="https://komarev.com/ghpvc/?username=Vedant-Gandhi&style=flat-square&color=blue" alt=""/>
 </div>
-
+<br><br>
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohze15TQsHnWxQfm0/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<br><br>
+- :telescope: I’m a Full Stack Developer and a Deep Learning Enthusiast.Javascript is my coolest friend and Python is gangster with whom I work.
+
+- :seedling:Learning to get along with data and neural networks.
+
+- :zap: In my free time, I explore physics and astronomy.
