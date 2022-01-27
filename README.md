@@ -24,5 +24,9 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/Anoman43442949">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Vedant-Gandhi&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Vedant-Gandhi&style=flat-square&color=blue" alt=""/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3ohze15TQsHnWxQfm0/giphy.gif" width="600" height="300"/>
+</div>
