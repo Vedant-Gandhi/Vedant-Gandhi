@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Vedant-Gandhi/Vedant-Gandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +31,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <br><br>
+
+### Hi there 👋
+
 - :telescope: I’m a Full Stack Developer and a Deep Learning Enthusiast.Javascript is my coolest friend and Python is gangster with whom I work.
 
 - :seedling:Learning to get along with data and neural networks.
