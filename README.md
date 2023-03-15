@@ -27,9 +27,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Vedant-Gandhi&style=flat-square&color=blue" alt=""/>
 </div>
 <br><br>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 <br><br>
 
 ### Hi there 👋
@@ -39,3 +37,7 @@ Here are some ideas to get you started:
 - :seedling:Learning to get along with data and neural networks.
 
 - :zap: In my free time, I explore physics and astronomy.
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedant-Gandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<figure><embed src="https://wakatime.com/share/@Anoman/3942aa08-bbe9-40cb-b9f4-b2af19d9b632.svg"></embed></figure>
