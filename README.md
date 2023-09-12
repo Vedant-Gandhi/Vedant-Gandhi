@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- :telescope: I’m a Full Stack Developer and a Deep Learning Enthusiast.Javascript is my coolest friend and Python is gangster with whom I work.
-
-- :seedling:Learning to get along with data and neural networks.
-
-- :zap: In my free time, I explore physics and astronomy.
+- ⚡: I’m a Full Stack Developer who is biased towards Backend Development. I ❤️ to make and break systems while reducing their prices.
+- 🤯 Woah I have experience on fixing some critical bugs that were created by me.
+- 💌 My lover is Golang but my 👫 is Javascript.
+- 🔭: In my free time, I explore physics and astronomy.
+- 🔌 Fun Fact - Electricity does not travel inside wires.😕
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vedant-Gandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
