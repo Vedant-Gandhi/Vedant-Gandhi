@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- ⚡: I’m a Full Stack Developer who is biased towards Backend Development. I ❤️ to make and break systems while reducing their prices.
+- ⚡: I’m a Backend Developer. I ❤️ to make and break systems while reducing their cost and improving their efficiency. KISS is my goal.
+- Not an expert though but can have developed Frontend websites too using React and NextJS.
 - 🤯 Woah I have experience on fixing some critical bugs that were created by me.
-- 💌 My lover is Golang but my 👫 is Javascript.
+- Recently started Open Source Contributions.
 - 🔭: In my free time, I explore physics and astronomy.
 - 🔌 Fun Fact - Electricity does not travel inside wires.😕
 
