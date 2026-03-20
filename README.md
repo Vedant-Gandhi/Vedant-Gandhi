@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header with gradient text effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VEDANT%20GANDHI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Systems%20Tinkerer%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,11,20&height=180&section=header&text=Vedant%20Gandhi&fontSize=42&fontColor=fff&fontAlignY=32&desc=Systems%20Tinkerer%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=51"/>
 
 </div>
 
@@ -184,53 +184,13 @@ ML-powered plant disease detection. Works offline in rural areas.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedant-gandhi&show_icons=true&count_private=true&hide_border=true&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&bg_color=0D1117" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=vedant-gandhi&theme=dark&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=vedant-gandhi&theme=dark&hide_border=true&background=0D1117" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-gandhi&layout=compact&hide_border=true&title_color=F85D7F&text_color=FFFFFF&bg_color=0D1117&langs_count=8" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedant-gandhi&theme=radical&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-gandhi&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant-gandhi&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant-gandhi&custom_title=Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=F8D866&point=F85D7F&area_color=F8D866&area=true&hide_border=true" width="99%"/>
 </p>
-
----
-
-### 🎯 Current Focus
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**⚡ Systems Programming**  
-Building performant backend systems
-
-</td>
-<td width="33%" align="center">
-
-**🌐 Network Protocols**  
-Deep diving into HTTP & TCP internals
-
-</td>
-<td width="33%" align="center">
-
-**🦀 Rust & Go**  
-Mastering systems-level languages
-
-</td>
-</tr>
-</table>
 
 ---
 
