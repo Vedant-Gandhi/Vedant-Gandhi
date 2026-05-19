@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- Header with gradient text effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,11,20&height=180&section=header&text=Vedant%20Gandhi&fontSize=42&fontColor=fff&fontAlignY=32&desc=Systems%20Tinkerer%20%7C%20Open%20Source%20Contributor&descSize=16&descAlignY=51"/>
+## Hi, I'm Vedant Gandhi
 
 </div>
 
 <div align="center">
   
-### 🎯 Backend Engineer • Systems Programmer • Building from first principles
-
+### I build code based on principles of security and scalability.
 [![Portfolio](https://img.shields.io/badge/🌐_iamvedant.in-0A0A0A?style=for-the-badge&logoColor=white)](https://iamvedant.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedntg)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@iamvedant.in)
@@ -21,32 +19,21 @@
 
 <table>
 <tr>
-<td width="55%">
+<td>
 
 ```typescript
 const vedant = {
   location: "Pune, India 🇮🇳",
   role: "Backend Engineer @ rtCamp",
   
-  expertise: ["Systems Programming", "Network Protocols", "API Design"],
+  expertise: ["Microservice Design", "API Design", "Clean Code Architecture Design","Vibe Code Fixer"],
   languages: ["Go", "Rust", "TypeScript", "PHP"],
   focus: ["HTTP Internals", "Concurrent Systems", "Performance Optimization"],
-  
-  currentProjects: [
-    "HTTP/1.1 from scratch",
-    "Custom browser rendering engine",
-    "Distributed systems exploration"
-  ],
   
   philosophy: "Build it from scratch to truly understand it",
   funFact: "I read RFCs for fun 📚"
 };
 ```
-
-</td>
-<td width="45%">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
 </td>
 </tr>
@@ -145,29 +132,6 @@ Get instant notifications for GitHub events. Email was getting too slow.
 </td>
 <td width="50%">
 
-#### 💻 [Web Code Editor V2](https://github.com/Vedant-Gandhi/WebCodeEditorV2)
-**In-Browser Code Editor**
-
-Monaco-based editor with live preview. Code anywhere, anytime.
-
-`JavaScript` `Monaco` `CodeMirror` `Live Preview`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 👤 [Face Recognition Backend](https://github.com/Vedant-Gandhi/attendance-face-recog-backend)
-**AI-Powered Attendance System**
-
-Teaching computers to recognize faces. Works better than my memory.
-
-`TypeScript` `TensorFlow` `Face Recognition` `AI`
-
-</td>
-<td width="50%">
-
 #### 🌱 [CropMedic](https://github.com/Vedant-Gandhi/CropMedic)
 **Crop Disease Detection App**
 
@@ -177,6 +141,7 @@ ML-powered plant disease detection. Works offline in rural areas.
 
 </td>
 </tr>
+
 </table>
 
 ---
@@ -192,15 +157,6 @@ ML-powered plant disease detection. Works offline in rural areas.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant-gandhi&custom_title=Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=F8D866&point=F85D7F&area_color=F8D866&area=true&hide_border=true" width="99%"/>
 </p>
 
----
-
-### 📈 Profile Views
-
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=vedant-gandhi&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 ---
 
@@ -209,7 +165,4 @@ ML-powered plant disease detection. Works offline in rural areas.
 ### 💬 Let's Connect & Build Something Amazing!
 
 **Open for collaborations, interesting projects, and tech discussions**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
 </div>
