@@ -21,28 +21,15 @@
 
 ## About me
 
-I'm a software engineer from Pune, India, with over four years of experience, mostly in backend work. I care about secure, scalable design, and I like understanding how things work underneath. That's why many of my side projects are HTTP clients, browser engines and other tools rebuilt from the ground up.
+I'm a software engineer from Pune, India, with over four years of experience, mostly on the backend. I like to understand how things work underneath, so many of my side projects are things like HTTP clients and browser engines built from scratch.
 
-Right now I'm at **rtCamp**, building and migrating large platforms and contributing to open source. Before that I built backend services in Go and Node.js at **RabbitLoader**.
+I currently work at **rtCamp**, where I handle large platform migrations and contribute to open source. Before that I built backend services in Go and Node.js at **RabbitLoader**.
 
-<br/>
-
-<table width="100%" cellpadding="16">
-<tr>
-<td width="33%" align="center" valign="top">
-<h3>Backend</h3>
-APIs, services, queues, search and clean architecture
-</td>
-<td width="33%" align="center" valign="top">
-<h3>Systems</h3>
-HTTP internals, concurrency and performance in Go and Rust
-</td>
-<td width="33%" align="center" valign="top">
-<h3>Open source</h3>
-Core Gutenberg and rtCamp's nginx-helper plugin
-</td>
-</tr>
-</table>
+- **Backend and API design:** services, message queues and search in Go and Node.js
+- **Systems programming:** HTTP internals, concurrency and performance in Go and Rust
+- **WordPress and open source:** platform migrations, custom plugins and contributions to core Gutenberg
+- **Learning by building:** rebuilding protocols and tools from their specs until I understand them fully
+- **Technical writing:** sharing what I learn through my blog
 
 ---
 
@@ -71,40 +58,12 @@ Core Gutenberg and rtCamp's nginx-helper plugin
 
 ## Featured projects
 
-<table width="100%" cellpadding="20">
-<tr>
-<td width="50%" valign="top">
-<b><a href="https://github.com/Vedant-Gandhi/GopherReq">GopherReq</a></b>
-<br/><br/>
-An HTTP/1.1 client written from the RFC 7230 spec without relying on existing HTTP libraries.
-<br/><br/>
-<code>Go</code> <code>HTTP</code> <code>Networking</code>
-</td>
-<td width="50%" valign="top">
-<b><a href="https://github.com/Vedant-Gandhi/Rust_Browser">Rust Browser Engine</a></b>
-<br/><br/>
-A browser engine with its own HTML and CSS parser, DOM tree and renderer.
-<br/><br/>
-<code>Rust</code> <code>Parsing</code> <code>Rendering</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<b><a href="https://github.com/Vedant-Gandhi/Github-Notifier">GitHub Notifier</a></b>
-<br/><br/>
-Real-time GitHub event notifications delivered over WebSockets.
-<br/><br/>
-<code>Go</code> <code>WebSockets</code> <code>GitHub API</code>
-</td>
-<td width="50%" valign="top">
-<b><a href="https://github.com/Vedant-Gandhi/CropMedic">CropMedic</a></b>
-<br/><br/>
-An Android app that detects crop diseases on-device, so it works without internet.
-<br/><br/>
-<code>Kotlin</code> <code>TensorFlow</code> <code>Android</code>
-</td>
-</tr>
-</table>
+| | Project | Built with |
+| :---: | --- | --- |
+| <img src="https://skillicons.dev/icons?i=go&theme=dark" width="48" alt="Go" /> | **[GopherReq](https://github.com/Vedant-Gandhi/GopherReq)**<br/>An HTTP/1.1 client written from the RFC 7230 spec without relying on existing HTTP libraries. | `Go` `HTTP` `Networking` |
+| <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="48" alt="Rust" /> | **[Rust Browser Engine](https://github.com/Vedant-Gandhi/Rust_Browser)**<br/>A browser engine with its own HTML and CSS parser, DOM tree and renderer. | `Rust` `Parsing` `Rendering` |
+| <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" /> | **[GitHub Notifier](https://github.com/Vedant-Gandhi/Github-Notifier)**<br/>Real-time GitHub event notifications delivered over WebSockets. | `Go` `WebSockets` `GitHub API` |
+| <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="48" alt="Kotlin" /> | **[CropMedic](https://github.com/Vedant-Gandhi/CropMedic)**<br/>An Android app that detects crop diseases on-device, so it works without internet. | `Kotlin` `TensorFlow` `Android` |
 
 ---
 
